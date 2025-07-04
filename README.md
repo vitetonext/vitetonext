@@ -46,4 +46,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
 
 ## 📜 License
 
-MIT © [ViteToNext.AI](https://vitetonext.ai)
+MIT © [ViteToNext.AI]([https://vitetonext.ai](http://vitetonext.codebypaki.online/))
